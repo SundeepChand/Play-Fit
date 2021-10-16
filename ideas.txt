@@ -1,0 +1,20 @@
+- Home
+  - Header
+  - About us
+  - Navigation
+  - Testimonials
+  - Contact us
+- Fitness
+  - Meet instructors
+  - Videos
+- Live events
+  - Conduct Live session
+	- Register
+  - Ongoing events
+	- User register for events
+- Active Gaming
+  - Instructions
+  - Games recommendation
+- Join us
+  - Login
+  - Register
